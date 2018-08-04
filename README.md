@@ -1,10 +1,10 @@
-# FIRST_CONFIGURATION_WEBPACK
+# FIRST_WEBPACK_CONFIGURATION
 
-In this task I configured webpack.
+Webpack configuration.
 
 ## Task-16.3
 
-Webpack configuration.
+In this task I configured webpack. I created two files in src file and next I used webpack to render app.bundle.js file in build folder.
 
 ## SOURCE 
 While creating the project I used: 
